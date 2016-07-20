@@ -1,0 +1,9 @@
+Building Coindev
+
+See doc/readme-qt.rst for instructions on building Coindev-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Coindev.
+
+See doc/build-*.txt for instructions on building coindevd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Coindev.

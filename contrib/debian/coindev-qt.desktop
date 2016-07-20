@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Coindev
+Comment=Coindev P2P Cryptocurrency
+Comment[fr]=Coindev, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Coindev, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/coindev-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/coindev128.png
+MimeType=x-scheme-handler/coindev;
+Categories=Office;
